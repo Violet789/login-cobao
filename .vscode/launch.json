@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/PERSONAL/Login_Cobao/login-cobao/login-cobao",
-      "program": "d:/PERSONAL/Login_Cobao/login-cobao/login-cobao/build/Debug/outDebug",
+      "cwd": "d:/PERSONAL/Login_Cobao/login-cobao",
+      "program": "d:/PERSONAL/Login_Cobao/login-cobao/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
